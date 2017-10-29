@@ -1,0 +1,18 @@
+#buttonsarea{
+	text-align: center;
+}
+#search-form
+{
+	text-align: center
+}
+#search-input{
+	height:20px;
+	width: 300px
+}
+div{
+	float:left;
+}
+body 
+{
+	background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #27a1a7),linear-gradient(70deg, #dbedff 32%, #ebfff0);
+}
